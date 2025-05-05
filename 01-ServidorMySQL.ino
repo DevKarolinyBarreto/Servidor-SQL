@@ -1,8 +1,4 @@
-/*
-  Professor Marcos Costa
-  Conexão com servidor PHP e armazenamento em Banco de 
-  Dados MySQL.
- */
+
  
 // Inclui a biblioteca DHT para interagir com o sensor DHT11
 #include "DHT.h"
